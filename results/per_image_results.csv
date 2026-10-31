@@ -1,0 +1,8 @@
+image,gt_count,pred_pretrained,pred_finetuned,error_pretrained,error_finetuned,abs_error_pretrained,abs_error_finetuned
+011,24,0,47,-24,23,24,23
+014,146,11,63,-135,-83,135,83
+016,321,0,353,-321,32,321,32
+021,71,4,90,-67,19,67,19
+023,445,4,372,-441,-73,441,73
+025,188,5,290,-183,102,183,102
+031,262,7,250,-255,-12,255,12

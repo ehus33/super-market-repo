@@ -1,0 +1,7 @@
+path: /workspace/artifacts/yolox_retail_shelf/real_shelf_experiment/dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 1
+names: ['product']
